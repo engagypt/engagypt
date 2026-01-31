@@ -5,7 +5,7 @@
 - Turning static ads into playable mysteries, quizzes, and explorations
 - Starting with luxury e-commerce, expanding to mini apps and SaaS tools
 ## 💡 Current Focus
-- Validating Mystery Ads for luxury brands
+- Creating Mystery Ads for luxury brands
 - Building Telegram Mini Apps for gamified engagement
 - Exploring interactive storytelling in advertising
 
